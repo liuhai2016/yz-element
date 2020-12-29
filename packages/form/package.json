@@ -1,7 +1,7 @@
 {
-  "name": "yz-form",
+  "name": "yzwl-form",
   "version": "1.0.0-alpha.0",
-  "description": "yz-form",
+  "description": "yzwl-form",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "61c5f57b1a2ce528530c61960a934438b00b77af"
 }
