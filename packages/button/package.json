@@ -1,6 +1,6 @@
 {
   "name": "yz-button",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "yz-button",
   "main": "index.js",
   "scripts": {
