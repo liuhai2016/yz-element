@@ -1,6 +1,6 @@
 {
   "name": "yz-input",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.1",
   "description": "yz-input",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
